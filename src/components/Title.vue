@@ -1,5 +1,7 @@
 <template>
+  <div>
     <h1>Hot Air Balloons In Cappadocia</h1>
+  </div>
 </template>
 
 <script>

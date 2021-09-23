@@ -2,8 +2,7 @@
     <div class="container">
         <Title class="title-position"/>
         <img src="../assets/turkey.jpg" alt="Hot air baloons in Cappadocia">
-</div>
-  
+    </div>
 </template>
 
 <script>
